@@ -1,0 +1,18 @@
+{
+  "name": "jack-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "VinceCYLiao <lounger23@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./build/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.4",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "fs-extra": "^10.1.0"
+  }
+}
